@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static jm.task.core.jdbc.dao.UserDaoJDBCImpl.stmt;
+
 
 
 public class UserServiceImpl implements UserService {
